@@ -1,0 +1,8 @@
+{
+  "name": "minkay-base",
+  "app_id": "347ba56e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
